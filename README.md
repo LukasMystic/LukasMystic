@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31538784/README.md)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
