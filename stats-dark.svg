@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 152" width="1280" height="152" role="img" aria-label="4+ papers accepted, 5+ research projects, 100K+ samples handled, 191 learners trained">
+<style>
+  .card { animation: rise .55s cubic-bezier(.2,.7,.3,1) both; }
+  .num  { animation: rise .6s cubic-bezier(.2,.7,.3,1) both; }
+  .rule { transform-origin: left center; animation: draw .7s cubic-bezier(.3,.8,.3,1) both; }
+  @keyframes rise { from { opacity:0; transform: translateY(10px) } }
+  @keyframes draw { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+  .k0 { animation-delay: 0.08s }
+  .n0 { animation-delay: 0.18s }
+  .r0 { animation-delay: 0.30s }
+  .k1 { animation-delay: 0.19s }
+  .n1 { animation-delay: 0.29s }
+  .r1 { animation-delay: 0.41s }
+  .k2 { animation-delay: 0.30s }
+  .n2 { animation-delay: 0.40s }
+  .r2 { animation-delay: 0.52s }
+  .k3 { animation-delay: 0.41s }
+  .n3 { animation-delay: 0.51s }
+  .r3 { animation-delay: 0.63s }
+</style>
+<g class="card k0">
+<rect x="0.8" y="0.75" width="303.5" height="150.5" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<text class="num n0" x="26.0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.2" fill="#2F81F7">4+</text>
+<rect class="rule r0" x="26.0" y="80" width="253.0" height="3" rx="1.5" fill="#2F81F7" opacity=".28"/>
+<text x="26.0" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF3">Papers accepted</text>
+<text x="26.0" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">One publicly citable, the rest under NDA</text>
+</g>
+<g class="card k1">
+<rect x="325.8" y="0.75" width="303.5" height="150.5" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<text class="num n1" x="351.0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.2" fill="#2F81F7">5+</text>
+<rect class="rule r1" x="351.0" y="80" width="253.0" height="3" rx="1.5" fill="#2F81F7" opacity=".28"/>
+<text x="351.0" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF3">Research projects</text>
+<text x="351.0" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">NLP, computer vision, ensembles</text>
+</g>
+<g class="card k2">
+<rect x="650.8" y="0.75" width="303.5" height="150.5" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<text class="num n2" x="676.0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.2" fill="#2F81F7">100K+</text>
+<rect class="rule r2" x="676.0" y="80" width="253.0" height="3" rx="1.5" fill="#2F81F7" opacity=".28"/>
+<text x="676.0" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF3">Samples handled</text>
+<text x="676.0" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">Cleaned, labelled and modelled</text>
+</g>
+<g class="card k3">
+<rect x="975.8" y="0.75" width="303.5" height="150.5" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<text class="num n3" x="1001.0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.2" fill="#2F81F7">191</text>
+<rect class="rule r3" x="1001.0" y="80" width="253.0" height="3" rx="1.5" fill="#2F81F7" opacity=".28"/>
+<text x="1001.0" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF3">Learners trained</text>
+<text x="1001.0" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">Curriculum designed and run</text>
+</g>
+</svg>

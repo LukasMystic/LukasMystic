@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 405" width="1280" height="405" role="img" aria-label="Terminal: whoami — Stanley Pratama Teguh, AI/ML engineer, full-stack, research assistant">
+<style>
+  .ln { animation: sweep .01s linear both; }
+  .cur { animation: blink 1.05s step-end infinite; }
+  @keyframes blink { 50% { opacity: 0 } }
+  @keyframes appear { from { opacity: 0 } }
+  .l0 { transform-origin: 34px 74px; animation: sweep 0.33s steps(6,end) 0.35s both; }
+  .l1 { transform-origin: 34px 101px; animation: sweep 0.30s steps(10,end) 0.84s both; }
+  .l2 { transform-origin: 34px 128px; animation: sweep 0.30s steps(27,end) 1.24s both; }
+  .l4 { transform-origin: 34px 182px; animation: sweep 0.71s steps(6,end) 1.76s both; }
+  .l5 { transform-origin: 34px 209px; animation: sweep 0.30s steps(26,end) 2.64s both; }
+  .l6 { transform-origin: 34px 236px; animation: sweep 0.30s steps(27,end) 3.04s both; }
+  .l7 { transform-origin: 34px 263px; animation: sweep 0.30s steps(29,end) 3.44s both; }
+  .l9 { transform-origin: 34px 317px; animation: sweep 0.77s steps(7,end) 3.96s both; }
+  .l10 { transform-origin: 34px 344px; animation: sweep 0.30s steps(11,end) 4.88s both; }
+  @keyframes sweep { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+</style>
+<defs><clipPath id="c0_0"><rect class="ln l0" x="34" y="58" width="110" height="22"/></clipPath><clipPath id="c1_0"><rect class="ln l1" x="34" y="85" width="241" height="22"/></clipPath><clipPath id="c2_0"><rect class="ln l2" x="34" y="112" width="529" height="22"/></clipPath><clipPath id="c4_0"><rect class="ln l4" x="34" y="166" width="171" height="22"/></clipPath><clipPath id="c5_0"><rect class="ln l5" x="34" y="193" width="520" height="22"/></clipPath><clipPath id="c6_0"><rect class="ln l6" x="34" y="220" width="529" height="22"/></clipPath><clipPath id="c7_0"><rect class="ln l7" x="34" y="247" width="572" height="22"/></clipPath><clipPath id="c9_0"><rect class="ln l9" x="34" y="301" width="180" height="22"/></clipPath><clipPath id="c10_0"><rect class="ln l10" x="34" y="328" width="258" height="22"/></clipPath></defs>
+<rect x="0.75" y="0.75" width="1278.5" height="403.5" rx="14" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1.5"/>
+<path d="M 0.75 14.75 A 14 14 0 0 1 14.75 0.75 L 1265.25 0.75 A 14 14 0 0 1 1279.25 14.75 L 1279.25 44 L 0.75 44 Z" fill="#F6F8FA"/>
+<line x1="0.75" y1="44" x2="1279.25" y2="44" stroke="#E5E5EA" stroke-width="1.5"/>
+<circle cx="24" cy="22" r="6" fill="#FF5F57"/>
+<circle cx="44" cy="22" r="6" fill="#FEBC2E"/>
+<circle cx="64" cy="22" r="6" fill="#28C840"/>
+<text x="640.0" y="26" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" text-anchor="middle" fill="#8E8E93">stanley — zsh</text>
+<g clip-path="url(#c0_0)">
+<text x="34" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="700" fill="#0071E3">$</text>
+<text x="51.5" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="600" fill="#1D1D1F">whoami</text>
+</g>
+<g clip-path="url(#c1_0)">
+<text x="52" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#1D1D1F">Stanley Pratama Teguh</text>
+</g>
+<g clip-path="url(#c2_0)">
+<text x="52" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#6E6E73">AI / ML engineer  ·  full-stack  ·  research assistant</text>
+</g>
+<g clip-path="url(#c4_0)">
+<text x="34" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="700" fill="#0071E3">$</text>
+<text x="51.5" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="600" fill="#1D1D1F">cat focus.txt</text>
+</g>
+<g clip-path="url(#c5_0)">
+<text x="52" y="209" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#1D1D1F">NLP and LLM systems  —  sentiment, summarisation, RAG</text>
+</g>
+<g clip-path="url(#c6_0)">
+<text x="52" y="236" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#1D1D1F">Computer vision  —  satellite imagery, medical imaging</text>
+</g>
+<g clip-path="url(#c7_0)">
+<text x="52" y="263" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#1D1D1F">Applied research  —  4+ papers accepted, 1 publicly citable</text>
+</g>
+<g clip-path="url(#c9_0)">
+<text x="34" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="700" fill="#0071E3">$</text>
+<text x="51.5" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="600" fill="#1D1D1F">open portfolio</text>
+</g>
+<g clip-path="url(#c10_0)">
+<text x="52" y="344" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="400" fill="#0071E3">→  stanleypt.vercel.app</text>
+</g>
+<g style="animation: appear .3s ease-out 5.29s both">
+<text x="34" y="371" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="700" fill="#0071E3">$</text>
+<rect class="cur" x="52" y="358" width="9" height="17" fill="#0071E3"/>
+</g>
+</svg>
