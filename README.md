@@ -4,9 +4,25 @@
   <img alt="Stanley Pratama Teguh — AI, machine learning and full-stack engineering" src="banner-light.svg" width="100%">
 </picture>
 
+<a id="stanley-pratama-teguh"></a>
+
 I build machine learning systems and the software around them — the model, the API, the interface, and the thing that finally gets deployed. Computer Science undergraduate at **BINUS University**, Research Assistant across NLP and computer vision, and currently in the **Apple Developer Academy** learning to ship on Apple platforms.
 
 Most of what I enjoy sits at the seam: taking something that only worked in a notebook and making it survive contact with real users.
+
+## Contents
+
+[About](#stanley-pratama-teguh) · [What I build](#what-i-build) · [Tools](#tools) · [By the numbers](#by-the-numbers) · [Selected work](#selected-work) · [Beyond the icons](#beyond-the-icons) · [Currently](#currently) · [Elsewhere](#elsewhere)
+
+## What I build
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="what-i-build-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="what-i-build-light.svg">
+    <img alt="AI systems, full-stack products, applied research" src="what-i-build-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Tools
 
@@ -38,6 +54,15 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasMystic&theme=github_dark&animation=draw">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasMystic&theme=github&animation=draw">
     <img alt="Top languages by commit" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasMystic&theme=github_dark&animation=draw">
+  </picture>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+    <img alt="A 3D isometric view of my contribution calendar" src="profile-3d-contrib/profile-season-animate.svg" width="96%">
   </picture>
 </p>
 
@@ -86,7 +111,12 @@ The techniques that do not have a logo:
 
 ## Elsewhere
 
-**[stanleypt.vercel.app](https://stanleypt.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/stanley-pratama-teguh)** &nbsp;·&nbsp; lukasstanley42@gmail.com
+<p align="center">
+  <a href="https://stanleypt.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-stanleypt.vercel.app-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=vercel"></a>
+  <a href="https://linkedin.com/in/stanley-pratama-teguh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-stanley--pratama--teguh-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=linkedin"></a>
+  <a href="https://github.com/LukasMystic"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-LukasMystic-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=github"></a>
+  <a href="mailto:lukasstanley42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukasstanley42@gmail.com-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=gmail"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukasMystic/LukasMystic/output/snake-dark.svg">
