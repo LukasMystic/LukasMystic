@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Stanley Pratama Teguh — AI, machine learning and full-stack engineering">
+<style>
+  .eyebrow { animation: rise .55s cubic-bezier(.2,.7,.3,1) .15s both; }
+  .name    { animation: rise .65s cubic-bezier(.2,.7,.3,1) .32s both; }
+  .tagclip { transform-origin: 64px 168px; animation: type 1.35s steps(30,end) .95s both; }
+  .caret   { animation: caret 1.35s steps(30,end) .95s both, blink 1.05s step-end 2.3s infinite; }
+  .tile    { animation: pop .5s cubic-bezier(.2,.9,.3,1) both; }
+  .sweep   { animation: sweep 4.6s cubic-bezier(.5,0,.5,1) 1.5s infinite; }
+  @keyframes rise  { from { opacity:0; transform: translateY(9px); } to { opacity:1; transform: none; } }
+  @keyframes pop   { from { opacity:0; transform: scale(.6); } }
+  @keyframes type  { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes caret { from { transform: translateX(0); } to { transform: translateX(376px); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes sweep { 0% { transform: translateX(-260px); } 55%,100% { transform: translateX(376px); } }
+  .c0 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.25s both; }
+  .c1 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.33s both; }
+  .c2 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.40s both; }
+  .c3 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.48s both; }
+  .c4 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.55s both; }
+  .c5 { animation: rise .5s cubic-bezier(.2,.7,.3,1) 2.62s both; }
+</style>
+<defs>
+<linearGradient id="sw0" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0071E3" stop-opacity="0"/><stop offset="50%" stop-color="#0071E3" stop-opacity="0.85"/><stop offset="100%" stop-color="#0071E3" stop-opacity="0"/></linearGradient>
+<clipPath id="tag0"><rect class="tagclip" x="64" y="150" width="384" height="30"/></clipPath>
+<clipPath id="grid0">
+<rect x="1004" y="42" width="40" height="40" rx="11"/>
+<rect x="1056" y="42" width="40" height="40" rx="11"/>
+<rect x="1108" y="42" width="40" height="40" rx="11"/>
+<rect x="1160" y="42" width="40" height="40" rx="11"/>
+<rect x="1004" y="94" width="40" height="40" rx="11"/>
+<rect x="1056" y="94" width="40" height="40" rx="11"/>
+<rect x="1108" y="94" width="40" height="40" rx="11"/>
+<rect x="1160" y="94" width="40" height="40" rx="11"/>
+<rect x="1004" y="146" width="40" height="40" rx="11"/>
+<rect x="1056" y="146" width="40" height="40" rx="11"/>
+<rect x="1108" y="146" width="40" height="40" rx="11"/>
+<rect x="1160" y="146" width="40" height="40" rx="11"/>
+<rect x="1004" y="198" width="40" height="40" rx="11"/>
+<rect x="1056" y="198" width="40" height="40" rx="11"/>
+<rect x="1108" y="198" width="40" height="40" rx="11"/>
+<rect x="1160" y="198" width="40" height="40" rx="11"/>
+</clipPath></defs>
+<rect x="0.75" y="0.75" width="1278.5" height="278.5" rx="24" fill="#FBFBFD" stroke="#E5E5EA" stroke-width="1.5"/>
+<rect class="tile" style="animation-delay:0.35s" x="1004" y="42" width="40" height="40" rx="11" fill="#0071E3" opacity="0.14"/>
+<rect class="tile" style="animation-delay:0.40s" x="1056" y="42" width="40" height="40" rx="11" fill="#0071E3" opacity="0.26"/>
+<rect class="tile" style="animation-delay:0.46s" x="1108" y="42" width="40" height="40" rx="11" fill="#0071E3" opacity="0.44"/>
+<rect class="tile" style="animation-delay:0.52s" x="1160" y="42" width="40" height="40" rx="11" fill="#0071E3" opacity="0.7"/>
+<rect class="tile" style="animation-delay:0.40s" x="1004" y="94" width="40" height="40" rx="11" fill="#0071E3" opacity="0.26"/>
+<rect class="tile" style="animation-delay:0.46s" x="1056" y="94" width="40" height="40" rx="11" fill="#0071E3" opacity="0.48"/>
+<rect class="tile" style="animation-delay:0.52s" x="1108" y="94" width="40" height="40" rx="11" fill="#0071E3" opacity="0.78"/>
+<rect class="tile" style="animation-delay:0.57s" x="1160" y="94" width="40" height="40" rx="11" fill="#0071E3" opacity="0.95"/>
+<rect class="tile" style="animation-delay:0.46s" x="1004" y="146" width="40" height="40" rx="11" fill="#0071E3" opacity="0.44"/>
+<rect class="tile" style="animation-delay:0.52s" x="1056" y="146" width="40" height="40" rx="11" fill="#0071E3" opacity="0.78"/>
+<rect class="tile" style="animation-delay:0.57s" x="1108" y="146" width="40" height="40" rx="11" fill="#0071E3" opacity="0.95"/>
+<rect class="tile" style="animation-delay:0.62s" x="1160" y="146" width="40" height="40" rx="11" fill="#0071E3" opacity="0.62"/>
+<rect class="tile" style="animation-delay:0.52s" x="1004" y="198" width="40" height="40" rx="11" fill="#0071E3" opacity="0.7"/>
+<rect class="tile" style="animation-delay:0.57s" x="1056" y="198" width="40" height="40" rx="11" fill="#0071E3" opacity="0.95"/>
+<rect class="tile" style="animation-delay:0.62s" x="1108" y="198" width="40" height="40" rx="11" fill="#0071E3" opacity="0.62"/>
+<rect class="tile" style="animation-delay:0.68s" x="1160" y="198" width="40" height="40" rx="11" fill="#0071E3" opacity="0.34"/>
+<g clip-path="url(#grid0)"><rect class="sweep" x="884" y="2" width="150" height="276" fill="url(#sw0)" transform="skewX(-14)"/></g>
+<text class="eyebrow" x="64" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4" fill="#0071E3">AI  ·  MACHINE LEARNING  ·  FULL-STACK</text>
+<text class="name" x="64" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2" fill="#1D1D1F">Stanley Pratama Teguh</text>
+<g clip-path="url(#tag0)"><text x="64" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#6E6E73">Research that ends in something you can open.</text></g>
+<rect class="caret" x="66" y="158" width="2" height="19" fill="#0071E3"/>
+<g class="c0"><rect x="64.0" y="206" width="68.6" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="98.3" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">Python</text></g>
+<g class="c1"><rect x="141.6" y="206" width="101.3" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="192.2" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">TensorFlow</text></g>
+<g class="c2"><rect x="251.9" y="206" width="61.3" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="282.5" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">React</text></g>
+<g class="c3"><rect x="322.2" y="206" width="108.5" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="376.4" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">Django REST</text></g>
+<g class="c4"><rect x="439.7" y="206" width="67.6" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="473.5" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">Flutter</text></g>
+<g class="c5"><rect x="516.3" y="206" width="60.5" height="30" rx="10" fill="#FFFFFF" stroke="#E5E5EA" stroke-width="1"/><text x="546.6" y="226" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="500" text-anchor="middle" fill="#3A3A3C">Swift</text></g>
+</svg>
