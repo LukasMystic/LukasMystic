@@ -12,15 +12,9 @@
   </picture>
 </p>
 
-<a id="stanley-pratama-teguh"></a>
-
-I build machine learning systems and the software around them — the model, the API, the interface, and the thing that finally gets deployed. Computer Science undergraduate at **BINUS University**, Research Assistant across NLP and computer vision, and currently in the **Apple Developer Academy** learning to ship on Apple platforms.
+I build machine learning systems and the software around them — the model, the API, the interface, and the thing that finally gets deployed. Computer Science undergraduate at **BINUS University**, Research Assistant across NLP and computer vision, and a developer at the **Apple Developer Academy**, where most of my recent work is in Swift: augmented reality, real-time simulation and learning apps on iPhone and iPad.
 
 Most of what I enjoy sits at the seam: taking something that only worked in a notebook and making it survive contact with real users.
-
-## Contents
-
-[About](#stanley-pratama-teguh) · [whoami](#whoami) · [What I build](#what-i-build) · [Tools](#tools) · [By the numbers](#by-the-numbers) · [Selected work](#selected-work) · [Beyond the icons](#beyond-the-icons) · [Currently](#currently) · [Elsewhere](#elsewhere)
 
 ## whoami
 
@@ -28,7 +22,7 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="terminal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="terminal-light.svg">
-    <img alt="Terminal: whoami — Stanley Pratama Teguh, AI/ML engineer, full-stack, research assistant" src="terminal-light.svg" width="96%">
+    <img alt="Terminal: whoami — Stanley Pratama Teguh, AI/ML engineer, iOS developer, research assistant" src="terminal-light.svg" width="96%">
   </picture>
 </p>
 
@@ -44,19 +38,18 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
 
 ## Tools
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,java,js,ts,swift,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,laravel,flutter,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,c,java,js,ts,swift,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,laravel,flutter,mongodb,mysql,git,github,vercel,figma&theme=light&perline=12">
-    <img src="https://skillicons.dev/icons?i=py,c,java,js,ts,swift,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,laravel,flutter,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=12" alt="Python, C, Java, JavaScript, TypeScript, Swift, Dart, PHP, TensorFlow, PyTorch, scikit-learn, React, Node.js, Express, Django, Laravel, Flutter, MongoDB, MySQL, Git, GitHub, Vercel, Figma">
-  </picture>
-</p>
+<!-- Brand icons in tools-*.svg come from tandpfun/skill-icons, MIT License, Copyright (c) 2022 tandpfun. The Apple framework tiles are original drawings, except the Xcode glyph from simple-icons (CC0). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="tools-light.svg">
+  <img alt="Tools. Apple platforms: Swift, SwiftUI, UIKit, ARKit, RealityKit, Metal, SpriteKit, AVFoundation, Speech, Vision, Core Motion, Combine, TipKit, Xcode. Languages: Python, C, C#, Java, JavaScript, TypeScript, R, Dart, PHP. Machine learning: TensorFlow, PyTorch, scikit-learn. Web and back end: React, Next.js, Tailwind, Node.js, Express, Django, FastAPI, Laravel, MongoDB, MySQL. Apps, games, hardware: Flutter, Unity, Arduino. Workflow: Git, GitHub, Vercel, Figma." src="tools-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="marquee-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="marquee-light.svg">
-    <img alt="Python, TensorFlow, PyTorch, CLIP, U-Net, RAG, React, Django REST, Flutter, Swift and more" src="marquee-light.svg" width="100%">
+    <img alt="Python, TensorFlow, PyTorch, CLIP, U-Net, RAG, React, Django REST, SwiftUI, Swift and more" src="marquee-light.svg" width="100%">
   </picture>
 </p>
 
@@ -91,7 +84,6 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
   </picture>
 </p>
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -102,54 +94,70 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
 
 ## Selected work
 
-### AI and machine learning
+### Apple platforms
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[Political Sentiment AI](https://sentiment-analysis-llm.vercel.app)** | Scrapes YouTube and Reddit, labels multilingual sentiment, and has Llama-3 write a sourced report you can then question through a chatbot. A RAG layer keeps every claim traceable to a real post. | Python · Llama-3 · RAG · React · Node |
-| **[DoodleDetect](https://github.com/jesslyntrixie/doodledetect)** | Sketch and image recognition from CLIP features, PCA and an SVM — beats a VGG-16 baseline with no retraining and no GPU loop. | CLIP · PCA · SVM · Tkinter |
-| **[CeritaNusa](https://github.com/LukasMystic/ceritanusa)** | Android app that turns long Indonesian history material into short, accurate summaries, with a fine-tuned transformer behind a Django REST API. | Flutter · Django REST · Transformers |
-| **[Cross-domain sentiment analysis](https://github.com/LukasMystic/Sentiment-Analysis)** | Sentiment on YouTube comments from the 2024 Indonesian presidential debate, compared across domains against quick-count results. | Python · scikit-learn |
-| **[Stacking ensemble for sentiment](https://www.sciencedirect.com/science/article/pii/S1877050925027139)** | Research I led: a stacking ensemble that raises decision-tree accuracy on sentiment classification. Accepted at ICCSCI 2025, published in Elsevier Procedia Computer Science. | scikit-learn · TF-IDF · SMOTE |
-| **[Building damage detection](https://stanleypt.vercel.app/project/68d419a9bbccb9a17094d400)** | Post-disaster segmentation and damage classification on Maxar satellite imagery, in a doctoral research team. 95.3% peak footprint accuracy. | TensorFlow · U-Net · Attention · SAM |
-| **[Alzheimer's MRI benchmark](https://stanleypt.vercel.app/project/68d3e8037cabee5eb7243543)** | Five pre-trained CNNs benchmarked on the same MRI pipeline, weighing accuracy against compute cost and Grad-CAM explainability. | TensorFlow · EfficientNet · ResNet · Grad-CAM |
+| Project | What it does |
+| :-- | :-- |
+| **[JataYuk](https://github.com/LukasMystic/JataYuk)**<br><sub>SwiftUI, ARKit, RealityKit, Metal</sub> | An AR science lab for kids. Place the elephant-toothpaste experiment on a real table, change the yeast, peroxide and temperature, and watch the foam respond. The foam is a GPU fluid simulation (SPH) written in Metal, meshed every frame, with the app built on a small Composable Architecture core. |
+| **[Cubby](https://github.com/LukasMystic/Cubby)**<br><sub>SwiftUI, SpriteKit, AVFoundation, TipKit</sub> | A storybook game that teaches young children about consent and personal boundaries. A page-curl storybook leads into a small world you walk with a joystick, where each character tells you how they like to be greeted. |
+| **[Zen Buddy](https://github.com/LukasMystic/Zen-Buddy)**<br><sub>SwiftUI, RealityKit, ARKit, Speech</sub> | An AR dog that responds to your voice. Say sit, shake, roll over or play dead, and on-device speech recognition triggers the animation, with barks timed to each move. |
+
+### AI and research
+
+| Project | What it does |
+| :-- | :-- |
+| **[MSLSAM](https://github.com/LukasMystic/MSLSAM)**<br><sub>PyTorch, Transformers, Llama 3, Qwen3</sub> | My undergraduate thesis: catching prompt injection by reading an LLM's own hidden states during the forward pass it already runs. Every version is pre-registered and now evaluated against an adaptive attacker, with attack success checked on real generations. |
+| **[Political Sentiment AI](https://sentiment-analysis-llm.vercel.app)**<br><sub>Python, Llama 3, RAG, React, Node</sub> | Scrapes YouTube and Reddit, labels multilingual sentiment, and has Llama 3 write a sourced report you can then question through a chatbot. A RAG layer keeps every claim traceable to a real post. |
+| **[Poverty clusters in Java](https://github.com/LukasMystic/java-poverty-lisa-sensitivity)**<br><sub>R, spatial statistics</sub> | Two papers accepted at ICoDiT 2026 (Springer CCIS) showing how the choice of spatial neighbours and permutation count changes which poverty clusters you find across Java's 119 regencies. Every table reproduces byte for byte from one script. |
+| **[Stacking ensemble for sentiment](https://www.sciencedirect.com/science/article/pii/S1877050925027139)**<br><sub>scikit-learn, TF-IDF, SMOTE</sub> | Research I led: a stacking ensemble that raises decision-tree accuracy on sentiment classification. Accepted at ICCSCI 2025, published in Elsevier Procedia Computer Science. |
+| **[Building damage detection](https://stanleypt.vercel.app/project/68d419a9bbccb9a17094d400)**<br><sub>TensorFlow, U-Net, Attention, SAM</sub> | Post-disaster segmentation and damage classification on Maxar satellite imagery, in a doctoral research team. 95.3% peak footprint accuracy. |
+| **[Alzheimer's MRI benchmark](https://stanleypt.vercel.app/project/68d3e8037cabee5eb7243543)**<br><sub>TensorFlow, EfficientNet, ResNet, Grad-CAM</sub> | Five pre-trained CNNs benchmarked on the same MRI pipeline, weighing accuracy against compute cost and Grad-CAM explainability. |
+| **[ObjectDet](https://github.com/LukasMystic/objectdet)**<br><sub>PyTorch, FastAPI, React, MongoDB</sub> | Object recognition with a dual-teacher distillation method: ResNet-18 and EfficientNet-B0 teach a lightweight student, with an SVM on top. |
+| **[DoodleDetect](https://github.com/jesslyntrixie/doodledetect)**<br><sub>CLIP, PCA, SVM, Tkinter</sub> | Sketch and image recognition from CLIP features, PCA and an SVM. Beats a VGG-16 baseline with no retraining and no GPU loop. |
+
+### Games and hardware
+
+| Project | What it does |
+| :-- | :-- |
+| **[The Red Door](https://github.com/LukasMystic/TheRedDoor)**<br><sub>Unity 6, C#</sub> | A short, deliberately hard 2D boss fight about resilience. Difficulty comes from shorter recovery windows rather than shorter warnings, so the fight stays learnable. |
+| **[FAHHH?](https://github.com/LukasMystic/FAHHH-)**<br><sub>ESP32, MQTT, Python</sub> | A wearable device that guides blind and low-vision passengers through Jakarta train stations, built for Samsung Innovation Campus. I own connectivity, the companion dashboard and testing. |
 
 ### Full-stack and web
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[Reviving Wringinanom](https://github.com/LukasMystic/Project-Wringinanom)** | Tourism platform for Desa Wisata Wringinanom, built leading a team of 10 on a RAD cycle. Credited with an 8% rise in village tourism. | Web · RAD |
-| **[HIMTI Bootcamp 2025](https://github.com/LukasMystic/HIMTIBOOTCAMP2025)** | Registration and participant-tracking platform for HIMTI's annual bootcamp. | MERN |
-| **[LnT GitReady](https://github.com/LukasMystic/LnTGitReady)** | Workshop platform for BNCC's Learning and Training division. | TypeScript · React |
-| **[BNCC final project](https://github.com/LukasMystic/BNCC-Final-Project)** | Back-end track final project — highest score in the region, and the only team to reach that level. | PHP · Laravel · MySQL |
+| Project | What it does |
+| :-- | :-- |
+| **[Reviving Wringinanom](https://github.com/LukasMystic/Project-Wringinanom)**<br><sub>Web, RAD</sub> | Tourism platform for Desa Wisata Wringinanom, built leading a team of 10 on a RAD cycle. Credited with an 8% rise in village tourism. |
+| **[HIMTI Bootcamp 2025](https://github.com/LukasMystic/HIMTIBOOTCAMP2025)**<br><sub>MERN</sub> | Registration and participant-tracking platform for HIMTI's annual bootcamp. |
+| **[LnT GitReady](https://github.com/LukasMystic/LnTGitReady)**<br><sub>TypeScript, React</sub> | Workshop platform for BNCC's Learning and Training division. |
+| **[BNCC final project](https://github.com/LukasMystic/BNCC-Final-Project)**<br><sub>PHP, Laravel, MySQL</sub> | Back-end track final project, with the highest score in the region, and the only team to reach that level. |
 
-Earlier coursework — AVL-tree data management in C, scientific computing labs — is in the repository list if you want to see where this started.
+Earlier work, including [CeritaNusa](https://github.com/LukasMystic/ceritanusa), [cross-domain sentiment analysis](https://github.com/LukasMystic/Sentiment-Analysis) and coursework in C, is in the repository list.
 
-## Beyond the icons
+## Techniques
 
-The techniques that do not have a logo:
+The parts of the work that do not come with a logo.
 
-**Machine learning** &nbsp;`stacking ensembles` `SMOTE` `feature selection` `cross-validation` `Top-k accuracy & mAP`
-
-**Deep learning** &nbsp;`U-Net` `attention modules` `transfer learning` `Grad-CAM` `EfficientNet / ResNet / VGG-16`
-
-**NLP and LLMs** &nbsp;`transformer fine-tuning` `TF-IDF` `multilingual sentiment` `Meta-Llama-3` `RAG` `prompt engineering`
-
-**Ways of working** &nbsp;`RAD` `Challenge-Based Learning` `research methodology` `academic writing`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="techniques-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="techniques-light.svg">
+  <img alt="Apple platforms, machine learning, deep learning, NLP and LLMs, and ways of working" src="techniques-light.svg" width="100%">
+</picture>
 
 ## Currently
 
-- Junior iOS Developer at the **Apple Developer Academy @ BINUS**, Cohort 9
-- Research Assistant at **BINUS University** — NLP, computer vision, model evaluation
-- Open to **AI/ML engineering, data science and full-stack** roles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="currently-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="currently-light.svg">
+  <img alt="Junior iOS Developer at the Apple Developer Academy @ BINUS; Research Assistant at BINUS University; undergraduate thesis on prompt-injection detection; open to AI/ML, data science and full-stack roles" src="currently-light.svg" width="100%">
+</picture>
 
 ## Elsewhere
 
 <p align="center">
-  <a href="https://stanleypt.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-stanleypt.vercel.app-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=vercel"></a>
-  <a href="https://linkedin.com/in/stanley-pratama-teguh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-stanley--pratama--teguh-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=linkedin"></a>
-  <a href="https://github.com/LukasMystic"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-LukasMystic-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=github"></a>
-  <a href="mailto:lukasstanley42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukasstanley42@gmail.com-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=gmail"></a>
+  <a href="https://stanleypt.vercel.app"><b>Portfolio</b></a>&emsp;&emsp;
+  <a href="https://linkedin.com/in/stanley-pratama-teguh"><b>LinkedIn</b></a>&emsp;&emsp;
+  <a href="https://github.com/LukasMystic"><b>GitHub</b></a>&emsp;&emsp;
+  <a href="mailto:lukasstanley42@gmail.com"><b>Email</b></a>
 </p>
 
 <picture>
