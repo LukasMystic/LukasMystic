@@ -38,11 +38,11 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
 
 ## Tools
 
-<!-- Icons embedded in tools-*.svg come from tandpfun/skill-icons, MIT License, Copyright (c) 2022 tandpfun. -->
+<!-- Brand icons in tools-*.svg come from tandpfun/skill-icons, MIT License, Copyright (c) 2022 tandpfun. The Apple framework tiles are original drawings. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tools-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="tools-light.svg">
-  <img alt="Tools. Apple platforms: Swift, SwiftUI, UIKit, ARKit, RealityKit, Metal, SpriteKit, AVFoundation, Speech, Vision, Core Motion, Combine, TipKit. Languages: Python, C, C#, Java, JavaScript, TypeScript, R, Dart, PHP. Machine learning: TensorFlow, PyTorch, scikit-learn. Web and back end: React, Next.js, Tailwind CSS, Node.js, Express, Django, FastAPI, Laravel, MongoDB, MySQL. Apps, games, hardware: Flutter, Unity, Arduino. Workflow: Git, GitHub, Vercel, Figma." src="tools-light.svg" width="100%">
+  <img alt="Tools. Apple platforms: Swift, SwiftUI, UIKit, ARKit, RealityKit, Metal, SpriteKit, AVFoundation, Speech, Vision, Core Motion, Combine, TipKit, Xcode. Languages: Python, C, C#, Java, JavaScript, TypeScript, R, Dart, PHP. Machine learning: TensorFlow, PyTorch, scikit-learn. Web and back end: React, Next.js, Tailwind, Node.js, Express, Django, FastAPI, Laravel, MongoDB, MySQL. Apps, games, hardware: Flutter, Unity, Arduino. Workflow: Git, GitHub, Vercel, Figma." src="tools-light.svg" width="100%">
 </picture>
 
 <p align="center">
