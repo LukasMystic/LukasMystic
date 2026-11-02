@@ -154,10 +154,10 @@ The parts of the work that do not come with a logo.
 ## Elsewhere
 
 <p align="center">
-  <a href="https://stanleypt.vercel.app"><b>Portfolio</b></a>&emsp;&emsp;
-  <a href="https://linkedin.com/in/stanley-pratama-teguh"><b>LinkedIn</b></a>&emsp;&emsp;
-  <a href="https://github.com/LukasMystic"><b>GitHub</b></a>&emsp;&emsp;
-  <a href="mailto:lukasstanley42@gmail.com"><b>Email</b></a>
+  <a href="https://stanleypt.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-stanleypt.vercel.app-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=vercel"></a>
+  <a href="https://linkedin.com/in/stanley-pratama-teguh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-stanley--pratama--teguh-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=linkedin"></a>
+  <a href="https://github.com/LukasMystic"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-LukasMystic-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=github"></a>
+  <a href="mailto:lukasstanley42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukasstanley42@gmail.com-0071E3?style=for-the-badge&logoColor=white&labelColor=1D1D1F&logo=gmail"></a>
 </p>
 
 <picture>
