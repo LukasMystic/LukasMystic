@@ -40,9 +40,17 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=14">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=light&perline=14">
-    <img src="https://skillicons.dev/icons?i=swift,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=14" alt="Swift, Python, C, C#, Java, JavaScript, TypeScript, R, Dart, PHP, TensorFlow, PyTorch, scikit-learn, React, Node.js, Express, Django, FastAPI, Laravel, Flutter, Unity, Arduino, MongoDB, MySQL, Git, GitHub, Vercel, Figma">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,apple,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=light&perline=15">
+    <img src="https://skillicons.dev/icons?i=swift,apple,py,c,cs,java,js,ts,r,dart,php,tensorflow,pytorch,sklearn,react,nodejs,express,django,fastapi,laravel,flutter,unity,arduino,mongodb,mysql,git,github,vercel,figma&theme=dark&perline=15" alt="Swift, Apple, Python, C, C#, Java, JavaScript, TypeScript, R, Dart, PHP, TensorFlow, PyTorch, scikit-learn, React, Node.js, Express, Django, FastAPI, Laravel, Flutter, Unity, Arduino, MongoDB, MySQL, Git, GitHub, Vercel, Figma">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="apple-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="apple-stack-light.svg">
+    <img alt="Apple frameworks: SwiftUI, UIKit, ARKit, RealityKit, Metal, SpriteKit, AVFoundation, Speech, Vision, Core Motion, Combine, TipKit, Swift Testing" src="apple-stack-light.svg" width="100%">
   </picture>
 </p>
 
