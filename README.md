@@ -38,7 +38,7 @@ Most of what I enjoy sits at the seam: taking something that only worked in a no
 
 ## Tools
 
-<!-- Brand icons in tools-*.svg come from tandpfun/skill-icons, MIT License, Copyright (c) 2022 tandpfun. The Apple framework tiles are original drawings. -->
+<!-- Brand icons in tools-*.svg come from tandpfun/skill-icons, MIT License, Copyright (c) 2022 tandpfun. The Apple framework tiles are original drawings, except the Xcode glyph from simple-icons (CC0). -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tools-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="tools-light.svg">
